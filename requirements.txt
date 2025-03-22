@@ -1,0 +1,1 @@
+yt-dlp==2023.11.16  # Remplacez par la version que vous utilisez
