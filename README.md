@@ -39,12 +39,12 @@ Linux : sudo apt install ffmpeg
 
 macOS : brew install ffmpeg
 
-Windows : Télécharger ici et ajouter ffmpeg.exe au PATH
+Windows : Télécharger ici "https://www.ffmpeg.org/download.html" et ajouter ffmpeg.exe au PATH
 
 ▶️ Utilisation
 Exécutez le script :
 
-python youtube_downloader.py
+python youtube.py
 Saisissez les informations demandées :
 
 🔗 Lien de la vidéo YouTube
